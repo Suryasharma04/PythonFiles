@@ -1,2 +1,1 @@
-# Python-
-Programs created using Python 
+Beginner programs created using Python programming language by Surya Sharma
